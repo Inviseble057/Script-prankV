@@ -1,0 +1,2 @@
+# Script-prankV
+password = TheGrayhat
